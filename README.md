@@ -1,6 +1,10 @@
 # Algorithms and Data Structures
 
-A comprehensive collection of common algorithms and data structures implemented in multiple languages for comparison and learning purposes.
+A collection of algorithms and data structures that I developed while studying data science in Python and Java, and subsequently ported to other languages (C++ and C) for comparison and learning purposes.
+
+## ⚠️ Educational Purpose Disclaimer
+
+These are reference implementations for educational purposes. They are not optimized for efficiency and are not considered best practices, especially in production environments. These implementations are intended to help understand algorithm concepts and compare implementations across different programming languages.
 
 ## Structure
 
@@ -56,16 +60,7 @@ Each implementation includes test files. Use the language-specific test runners:
 
 Each topic folder contains a README with algorithm explanations and links to all language implementations for easy comparison.
 
-## Contributing
-
-When adding a new algorithm or data structure:
-1. Create a new topic folder (if needed)
-2. Create language subfolders: `java/`, `python/`, `cpp/`, `c/`
-3. Implement the algorithm in each language
-4. Include test files following the naming convention for each language
-5. Update this README
-
 ## License
 
-[Add your license here]
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
