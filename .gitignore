@@ -1,0 +1,41 @@
+# Compiled files
+*.class
+*.o
+*.so
+*.dylib
+*.exe
+*.dll
+
+# C/C++
+*.a
+*.out
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+cmake-build-*/
+build/
+target/
+
+# Test outputs
+*.log
+test-results/
+
